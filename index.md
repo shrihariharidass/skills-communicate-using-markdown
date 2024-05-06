@@ -24,3 +24,5 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+![image](https://github.com/shrihariharidass/skills-communicate-using-markdown/assets/42179308/d5ae3a67-76d5-4f48-9cb6-503461dc3aea)
