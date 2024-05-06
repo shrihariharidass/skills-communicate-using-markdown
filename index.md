@@ -30,3 +30,6 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
